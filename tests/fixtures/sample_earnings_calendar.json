@@ -1,0 +1,20 @@
+{
+  "earningsCalendar": [
+    {
+      "symbol": "AAPL",
+      "date": "2026-01-29",
+      "hour": "amc",
+      "epsEstimate": 2.35,
+      "epsActual": null,
+      "revenueEstimate": 124500000000
+    },
+    {
+      "symbol": "AAPL",
+      "date": "2026-04-30",
+      "hour": "amc",
+      "epsEstimate": 1.62,
+      "epsActual": null,
+      "revenueEstimate": 91200000000
+    }
+  ]
+}
